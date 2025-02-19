@@ -1,2 +1,8 @@
-# Exercicio-React_Sistema-Bancario
- Um sistema bancário simples. Sendo possível criar uma conta (com agência, banco e tipo) e realizar operações financeiras, como creditar, debitar,  consultar o saldo e encerrar a conta. O programa se encerra quando o usuário encerrar  a conta.  
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
